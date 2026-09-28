@@ -1,0 +1,18 @@
+# QGIS project/runtime files
+*.qgz
+*.qgs
+*.gpkg-wal
+*.gpkg-shm
+
+# Raster data
+*.tif
+*.tiff
+*.img
+*.jp2
+
+# Temporary files
+*.tmp
+*.aux.xml
+*.lock
+.DS_Store
+Thumbs.db
