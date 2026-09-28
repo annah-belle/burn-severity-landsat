@@ -55,6 +55,30 @@ Landsat 8 OLI
       Burn-severity map
 ```
 
+## Selected outputs
+
+### Study area
+
+![Study area](figures/study_area.png)
+
+### Pre-fire and post-fire imagery
+
+![Pre-fire and post-fire true colour imagery](figures/pre_post_true_colour.png)
+
+### NBR analysis
+
+![Pre-fire NBR](figures/pre_fire_nbr.png)
+
+![Post-fire NBR](figures/post_fire_nbr.png)
+
+### Delta NBR
+
+![Delta NBR](figures/dnbr.png)
+
+### Burn-severity classification
+
+![Final burn-severity map](figures/burn_severity_map.png)
+
 ## Spectral analysis
 
 NBR was calculated using:
